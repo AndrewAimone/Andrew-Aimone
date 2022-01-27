@@ -10,3 +10,5 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewAimone&layout=compact&theme=radical" />
   </a>
 </p>
+                                                                                                                  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imohashi&layout=compact&langs_count=7&theme=dark"/>
