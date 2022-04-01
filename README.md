@@ -17,8 +17,7 @@
   
   ## 
   
-<div> 
-  <i>my contacts</i>
+<div>
   <a href = "mailto:andrewaimone.info@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a> 
   <a href="https://www.linkedin.com/in/andrew-aimone/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
