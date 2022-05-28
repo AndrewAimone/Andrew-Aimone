@@ -14,7 +14,7 @@
    <img align="center" alt="Maven" height="30" width="120" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
    <img align="center" alt="Docker" height="30" width="100" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
    <img align="center" alt="JavaScript" height="30" width="120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <img align="center" alt="Git" height="30" width="70" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+   
 </div>
   
   ## 
